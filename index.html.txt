@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<style>
+html,body        {height:100%; width:100%; margin:0;}
+.h_iframe iframe {width:100%; height:100%;}
+.h_iframe {
+    height: 100%; width:100%;
+}
+
+</style>
+<body>
+
+    <div class="h_iframe"> 
+	<iframe src="https://app.powerbi.com/view?r=eyJrIjoiMzE4OTc2MmEtZTY2Ny00NjI3LTk3N2MtOTQ3NzI4NDExNmFmIiwidCI6ImU2NGY3NTk2LTRjM2QtNDU2NS05NDdlLWVmZWRjZmYyZjAyYiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
+    </div>
+
+
+</body>
+</html>
